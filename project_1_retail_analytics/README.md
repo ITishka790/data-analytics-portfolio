@@ -6,3 +6,5 @@
 - 📈 Разработала интерактивные дашборды в Google Sheets
 ## Данные
 - 📊 [Ссылка на Google Таблицу](https://docs.google.com/spreadsheets/d/1fZyDxRtlmwT25-J3lAnnhXTCtQRo4nd3cp5OEUfzXlk/edit?usp=sharing)
+- `Анализ торговых точек.xlsx` — данные о происшествиях
+- `Влияние технических сбоев и акций.xlsx` — данные о маркетинговых активностях
