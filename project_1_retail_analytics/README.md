@@ -4,3 +4,5 @@
 - 🔍 Определила причины инцидентов и рассчитала финансовый эффект  
 - 📊 Оценила эффективность маркетинговых активностей  
 - 📈 Разработала интерактивные дашборды в Google Sheets
+## Данные
+- 📊 [Ссылка на Google Таблицу](https://docs.google.com/spreadsheets/d/1fZyDxRtlmwT25-J3lAnnhXTCtQRo4nd3cp5OEUfzXlk/edit?usp=sharing)
